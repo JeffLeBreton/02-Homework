@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*  --Header-- */
+/*--Header-- */
 
 header {
     padding: 20px;
@@ -25,6 +25,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/*--Header Nav-- */
 
 header nav {
     padding-top: 15px;
@@ -43,7 +45,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/*  --Text--  */
+/*--Text--  */
 
 a {
     color: #ffffff;
@@ -54,7 +56,7 @@ p {
     font-size: 16px;
 }
 
-/*  --Main-- */
+/*--Hero-- */
 
 .hero_image {
     height: 800px;
@@ -65,15 +67,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/*--Main-- */
 
 main {
     width: 75%;
@@ -99,7 +93,19 @@ main {
     font-size: 36px;
 }
 
-/*  -- Aside--  */
+/*--Main Floats-- */
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/*-- Aside--*/
 
 .benefits {
     margin-right: 20px;
@@ -128,7 +134,7 @@ main {
     max-width: 150px;
 }
 
-/*  -- Footer --*/
+/*-- Footer --*/
 
 .footer {
     padding: 30px;
