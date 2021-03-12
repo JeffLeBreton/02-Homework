@@ -12,6 +12,7 @@ SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
+```
 GIVEN a webpage meets accessibility standards
 
 WHEN I view the source code,
@@ -28,8 +29,9 @@ THEN they fall in sequential order
 
 WHEN I view the title element,
 THEN I find a concise, descriptive title
+```
 
-
+Live URL: https://jefflebreton.github.io/02-Homework/
 
 The image below depicts the correct web applications appearance
 
